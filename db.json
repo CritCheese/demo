@@ -1,14 +1,54 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "product":  [
+        {
+            "id": "PRD-000",
+            "name": "Product 0"
+        },
+        {
+            "id": "PRD-001",
+            "name": "Product 1"
+        },
+        {
+            "id": "PRD-002",
+            "name": "Product 2"
+        },
+        {
+            "id": "PRD-003",
+            "name": "Product 3"
+        },
+        {
+            "id": "PRD-004",
+            "name": "Product 4"
+        }
+    ],
+    "acct": [
+        {
+            "accId":1,
+            "email":"ace@house.com",
+            "name": "ace",
+            "passw": "bruh",
+            "gender": "male"
+        },
+        {
+            "accId":2,
+            "email":"king@house.com",
+            "name": "king",
+            "passw": "bruh",
+            "gender": "male"
+        },
+        {
+            "accId":3,
+            "email":"queen@house.com",
+            "name": "queen",
+            "passw": "bruh",
+            "gender": "female"
+        },
+        {
+            "accId":4,
+            "email":"jack@house.com",
+            "name": "jack",
+            "passw": "bruh",
+            "gender": "male"
+        }
+    ]
 }
