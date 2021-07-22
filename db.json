@@ -1,29 +1,29 @@
 {
   "products":  [
         {
-            id: "PRD-001",
-            name: "Product 1",
-            image: "img/lac_web_2.jpg"
+            "id": "PRD-001",
+            "name": "Product 1",
+            "image": "img/lac_web_2.jpg"
         },
         {
-            id: "PRD-002",
-            name: "Product 2",
-            image: "img/lac_bi_kitty.jpg"
+            "id": "PRD-002",
+            "name": "Product 2",
+            "image": "img/lac_bi_kitty.jpg"
         },
         {
-            id: "PRD-003",
-            name: "Product 3",
-            image: "img/day3-169.jpg"
+            "id": "PRD-003",
+            "name": "Product 3",
+            "image": "img/day3-169.jpg"
         },
         {
-            id: "PRD-004",
-            name: "Product 4",
-            image: "img/nhan-ruby.jpg"
+            "id": "PRD-004",
+            "name": "Product 4",
+            "image": "img/nhan-ruby.jpg"
         },
         {
-            id: "PRD-005",
-            name: "Product 5",
-            image: "img/vong-2.jpg"
+            "id": "PRD-005",
+            "name": "Product 5",
+            "image": "img/vong-2.jpg"
         }
     ],
     "accounts": [
